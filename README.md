@@ -22,9 +22,11 @@ which encourages you to share these documents.
 See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 ### How to Use
-**Eclipse**: Import [eclipse-java-google-style.xml](java/eclipse-java-google-style.xml) and [imports.importorder](java/imports.importorder) to your project settings
-**IntelliJ**: Import [intellij-java-google-style.xml](java/intellij-java-google-style.xml) to your project settings
-**Freonted**: [README.md](javascript/README.md)
+* **Eclipse**: Import [eclipse-java-google-style.xml](java/eclipse-java-google-style.xml) and [imports.importorder](java/imports.importorder) to your project settings
+
+* **IntelliJ**: Import [intellij-java-google-style.xml](java/intellij-java-google-style.xml) to your project settings
+  
+* **Fronted**: [README.md](javascript/README.md)
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
